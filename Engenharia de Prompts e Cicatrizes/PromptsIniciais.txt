@@ -1,0 +1,14 @@
+1º Analise o enunciado e me explique exatamente o que está sendo solicitado. Identifique: objetivo do trabalho, dados fornecidos, resultados esperados, restrições e conceitos que preciso dominar. Não tente resolver ainda.
+
+Objetivo: Receber um roadmap sobre todos os trabalhos, identificando o aprendizado que foi construído e o que era esperado em cada trabalhado pedido anteriormente. Eu não quero uma resolução, e sim, uma visão macro para identificar aonde eu estou e para aonde estou caminhando. É importante deixar claro que não é o objetivo obter uma resolução de problema. 
+
+2º Com base no enunciado e nas fontes disponíveis, quais conceitos preciso dominar para conseguir realizar este trabalho? Organize-os em uma sequência lógica de estudo, começando pelos fundamentos.
+
+Objetivo: Fazer uma revisão conceitual desde o primeiro trabalho para que eu reforce minha conexão mental, eu preciso ter uma visão muito clara dos conceitos e fundamentos que estão sendo abordados e por que eles são importantes 
+
+3º Em vez de me explicar diretamente, faça perguntas que me levem a identificar sozinho o que preciso fazer na primeira etapa do problema. Não revele a resposta imediatamente
+
+Objetivo: Reforçar as decisões heurísticas de projeto, decisões que tomo inicialmente sem necessidade de cálculo mas sim de conhecimento aprofundado 
+
+
+
