@@ -2,6 +2,7 @@
 
 ## Para este projeto, irei utilizar o projeto de dimensionamento de uma torre de destilação que fecha um ciclo de 3 trabalhos solicitados pela disciplina de Operações Unitárias da Universidade do Estado do RIO 
 
+### 
 1º A Anatomia dos Equipamentos de Separação:
 Construir um dossiê técnico conectando os mecanismos físicos/químicos de separação aos dispositivos internos, justificando as decisões de projeto (trade-offs) para dois equipamentos de contato gás-líquido: Coluna de Destilação de Pratos (Equipamento A) e Coluna de Absorção de Recheio (Equipamento B).
 
