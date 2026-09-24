@@ -1,6 +1,6 @@
 # Notebooklm Para Dimensionamento de uma Torre de Destilação
 
-## Para este projeto, irei utilizar como estudo de Caso o projeto de dimensionamento de uma torre de destilação que fecha um ciclo de 3 trabalhos solicitados pela disciplina de Operações Unitárias da Universidade do Estado do Rio de Janeiro
+## Para este projeto de NotebookLM, irei utilizar como objeto de estudo o dimensionamento de uma torre de destilação que fecha um ciclo de 3 trabalhos solicitados pela disciplina de Operações Unitárias 3 da Universidade do Estado do Rio de Janeiro
 
 ### 
 1º A Anatomia dos Equipamentos de Separação:
